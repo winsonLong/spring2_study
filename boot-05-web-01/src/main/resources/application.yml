@@ -5,7 +5,11 @@ spring:
   resources:
     static-locations: [classpath:/abc/]
 
+  contentnegotiation:
+    favor-parameter: true
+
   mvc:
     hiddenmethod:
       filter:
         enable: true
+
