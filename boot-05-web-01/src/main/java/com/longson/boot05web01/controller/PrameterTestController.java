@@ -1,8 +1,10 @@
 package com.longson.boot05web01.controller;
 
+import com.longson.boot05web01.bean.Person;
 import org.springframework.web.bind.annotation.*;
 
 import javax.annotation.Resource;
+import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
@@ -61,6 +63,16 @@ public class PrameterTestController {
         map.put("empAge",empAge);
         return map;
     }
+
+    @GetMapping(value = "/test/person")
+    public Person getPerson(){
+        Person person=new Person();
+        person.setAge(28);
+        person.setBirth(new Date());
+        person.setUserName("zhangsan");
+        return person;
+    }
+
 
 
 }
