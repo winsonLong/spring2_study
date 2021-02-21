@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c72bf339-2eb2-419e-9688-16599960f728" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/common.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/cloud2020.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-05-web-admin/src/main/java/com/atguigu/boot05webadmin/controller/TableController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-05-web-admin/src/main/java/com/atguigu/boot05webadmin/controller/TableController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/basic_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/basic_table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/dynamic_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/dynamic_table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/editable_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/editable_table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/pricing_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/pricing_table.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/responsive_table.html" beforeDir="false" afterPath="$PROJECT_DIR$/../boot-05-web-admin/src/main/resources/templates/table/responsive_table.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../Program Files/apache-maven-3.6.3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nvm90jcqVj7rjSC0SbiUHePIVP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c72bf339-2eb2-419e-9688-16599960f728" name="Default Changelist" comment="" />
+      <created>1612278783641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612278783641</updated>
+      <workItem from="1612278787879" duration="1018000" />
+      <workItem from="1613921353726" duration="325000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom" timestamp="1612279815212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1612279815212" />
+    <state width="1492" height="210" key="GridCell.Tab.0.center" timestamp="1612279815211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1612279815211" />
+    <state width="1492" height="210" key="GridCell.Tab.0.left" timestamp="1612279815211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1612279815211" />
+    <state width="1492" height="210" key="GridCell.Tab.0.right" timestamp="1612279815211">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1612279815211" />
+    <state x="270" y="0" key="SettingsEditor" timestamp="1612278948771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="270" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1612278948771" />
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613921530162">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="564" y="325" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1613921530162" />
+    <state x="183" y="68" width="1180" height="683" key="new project wizard" timestamp="1613921653658">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="183" y="68" width="1180" height="683" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1613921653658" />
+  </component>
+</project>
